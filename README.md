@@ -20,7 +20,8 @@ I design and build regulated digital asset platforms: security tokens, complianc
 |---|---|---|---|
 | [**Meridian Vault**](https://github.com/colemanwhaylon/meridian-vault-showcase) | Institutional RWA tokenization: fund shares, atomic DvP settlement, MPC custody, AML monitoring | ERC-3643, ERC-1400, ERC-20, ERC-721, ERC-1155 | Solidity, Foundry, Next.js, Viem, Node.js, Go, Besu |
 | [**Nexus Protocol**](https://github.com/colemanwhaylon/nexus-protocol) | DeFi + NFT + enterprise tokenization platform with staking, DAO governance, KYC registry, meta-transactions; deployed on Sepolia | ERC-20, EIP-2612, ERC-5805, ERC-3156, ERC-721A, ERC-2981, ERC-1400 (inspired), ERC-2771 | Solidity, Foundry, Go, Rust, Next.js, Terraform |
-| [**The Blockchain Messenger**](https://github.com/colemanwhaylon/theblockchainmessenger) | Solidity fundamentals: on-chain messaging | n/a | Solidity |
+| **Time-Lock Wallet** (private, available on request) | Multi-chain custody wallet: time-locked ETH and ERC-20 deposits, multi-signature approvals, WalletConnect, reentrancy protection | ERC-20 (SafeERC20) | Solidity, OpenZeppelin, ethers, .NET Blazor, Docker |
+| [**defi-multichain**](https://github.com/colemanwhaylon/defi-multichain) | Published npm package: registry of 2,398+ chains, React chain selector, hooks for switching chains, currency formatting | n/a (client library) | TypeScript, React, ethers, web3.js |
 
 ## Areas of focus
 
